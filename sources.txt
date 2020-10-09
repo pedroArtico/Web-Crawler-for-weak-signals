@@ -1,0 +1,16 @@
+<option value=site:https://noticias.uol.com.br/ >Uol</option>
+<option value=site:https://ultimosegundo.ig.com.br/ >IG</option>
+<option value=site:https://exame.abril.com.br/>Revista Exame</option>
+<option value=site:https://revistagalileu.globo.com>Revista Galileu</option>
+<option value=site:https://www.revistaforum.com.br>Revista Forum</option>
+<option value=site:https://istoe.com.br/>IstoÉ</option>
+<option value=site:https://www.infomoney.com.br/>InfoMoney</option>
+<option value=site:https://www.cartacapital.com.br>Carta Capital</option>
+<option value=site:https://www.bbc.com/portuguese/>BBC</option>
+<option value=site:https://g1.globo.com/>G1.com</option>
+<option value=site:http://www.scielo.br/>Scielo</option>
+<option value=site:https://www1.folha.uol.com.br/>Folha de SP</option>
+<option value=site:http://agencia.fapesp.br/>Fapesp</option>
+<option value=site:https://www.oantagonista.com/brasil/>O Antagonista</option>
+<option value=site:https://www.valor.com.br/>Valor Ecônomico</option>
+<option value=site:https://www.amazon.com.br/>Amazon</option>
